@@ -1,2 +1,2 @@
-# python_ML
-Course Material for Python Machine Learning
+# python_tutorial
+Course Material for Python Tutorial

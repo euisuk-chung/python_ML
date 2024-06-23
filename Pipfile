@@ -13,6 +13,9 @@ seaborn = "*"
 statsmodels = "*"
 mlxtend = "*"
 shap = "*"
+requests = "*"
+beautifulsoup4 = "*"
+selenium = "*"
 
 [dev-packages]
 
