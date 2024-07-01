@@ -19,6 +19,12 @@
   </script>
   <script async="" src="https://assets.velcdn.com/_next/static/chunks/47d8844f-a18c4da7cd76958b.js">
   </script>
+  <script async="" src="https://assets.velcdn.com/_next/static/chunks/1358-719698391c19b2e4.js">
+  </script>
+  <script async="" src="https://assets.velcdn.com/_next/static/chunks/9696-12e6776dfa88bfec.js">
+  </script>
+  <script async="" src="https://assets.velcdn.com/_next/static/chunks/4950-e492490ea3449563.js">
+  </script>
   <link as="script" href="https://www.googletagmanager.com/gtag/js?id=G-8D0MD2S4PK" rel="preload"/>
   <meta content="light dark" name="color-scheme"/>
   <title>
@@ -34,6 +40,7 @@
   <script nomodule="" src="https://assets.velcdn.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js">
   </script>
   <meta content="#ffffff" name="theme-color"/>
+  <link as="image" fetchpriority="high" href="https://velog.velcdn.com/images/euisuk-chung/post/2c1e4d0a-f871-4ac7-a49a-59461168de9f/image.png" rel="preload"/>
   <link as="image" fetchpriority="high" href="https://velog.velcdn.com/images/euisuk-chung/post/9b599ef0-32ef-427f-88d6-e8c23db050d1/image.png" rel="preload"/>
   <link as="image" fetchpriority="high" href="https://velog.velcdn.com/images/euisuk-chung/post/c7e1b4b1-ce3e-40e0-92f6-0edd9d14f4fb/image.png" rel="preload"/>
   <link as="image" fetchpriority="high" href="https://velog.velcdn.com/images/euisuk-chung/post/918c1f2d-350e-460d-9790-90c7415c0ddd/image.png" rel="preload"/>
@@ -239,7 +246,7 @@
           </a>
           <a class="UserProfile_info__MFcK0" href="/@euisuk-chung/followings">
            <span class="UserProfile_number___SVNo">
-            1
+            2
            </span>
            <span class="UserProfile_text__3yhHy">
             팔로잉
@@ -323,7 +330,7 @@
              전체보기
             </a>
             <span>
-             (87)
+             (88)
             </span>
            </li>
            <li class="VelogTagVerticalList_listItem__oxtsT">
@@ -355,7 +362,7 @@
              개념정리
             </a>
             <span>
-             (11)
+             (12)
             </span>
            </li>
            <li class="VelogTagVerticalList_listItem__oxtsT">
@@ -447,16 +454,8 @@
             </span>
            </li>
            <li class="VelogTagVerticalList_listItem__oxtsT">
-            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=환경-Linux">
-             환경 | Linux
-            </a>
-            <span>
-             (3)
-            </span>
-           </li>
-           <li class="VelogTagVerticalList_listItem__oxtsT">
-            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=파이썬-Pandas">
-             파이썬 | Pandas
+            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=개념정리-머신러닝">
+             개념정리 | 머신러닝
             </a>
             <span>
              (3)
@@ -471,8 +470,16 @@
             </span>
            </li>
            <li class="VelogTagVerticalList_listItem__oxtsT">
-            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=머신러닝-차원축소">
-             머신러닝 | 차원축소
+            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=개념정리-네트워크">
+             개념정리 | 네트워크
+            </a>
+            <span>
+             (3)
+            </span>
+           </li>
+           <li class="VelogTagVerticalList_listItem__oxtsT">
+            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=파이썬-Pandas">
+             파이썬 | Pandas
             </a>
             <span>
              (3)
@@ -487,8 +494,16 @@
             </span>
            </li>
            <li class="VelogTagVerticalList_listItem__oxtsT">
-            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=개념정리-네트워크">
-             개념정리 | 네트워크
+            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=머신러닝-차원축소">
+             머신러닝 | 차원축소
+            </a>
+            <span>
+             (3)
+            </span>
+           </li>
+           <li class="VelogTagVerticalList_listItem__oxtsT">
+            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=환경-Linux">
+             환경 | Linux
             </a>
             <span>
              (3)
@@ -529,14 +544,6 @@
            <li class="VelogTagVerticalList_listItem__oxtsT">
             <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=머신러닝-시계열">
              머신러닝 | 시계열
-            </a>
-            <span>
-             (2)
-            </span>
-           </li>
-           <li class="VelogTagVerticalList_listItem__oxtsT">
-            <a class="VelogTagVerticalList_name___J_Rx utils_ellipsis__M_m5g" href="/@euisuk-chung/posts?tag=개념정리-머신러닝">
-             개념정리 | 머신러닝
             </a>
             <span>
              (2)
@@ -660,7 +667,7 @@
           <a class="VelogTagHorizontalList_tagItem__1tP3p VelogTagHorizontalList_active__5ASRU" href="/@euisuk-chung/posts">
            전체보기
            <span>
-            (87)
+            (88)
            </span>
           </a>
           <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=환경">
@@ -684,7 +691,7 @@
           <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=개념정리">
            개념정리
            <span>
-            (11)
+            (12)
            </span>
           </a>
           <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=Conference">
@@ -753,14 +760,8 @@
             (4)
            </span>
           </a>
-          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=환경-Linux">
-           환경 | Linux
-           <span>
-            (3)
-           </span>
-          </a>
-          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=파이썬-Pandas">
-           파이썬 | Pandas
+          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=개념정리-머신러닝">
+           개념정리 | 머신러닝
            <span>
             (3)
            </span>
@@ -771,8 +772,14 @@
             (3)
            </span>
           </a>
-          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=머신러닝-차원축소">
-           머신러닝 | 차원축소
+          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=개념정리-네트워크">
+           개념정리 | 네트워크
+           <span>
+            (3)
+           </span>
+          </a>
+          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=파이썬-Pandas">
+           파이썬 | Pandas
            <span>
             (3)
            </span>
@@ -783,8 +790,14 @@
             (3)
            </span>
           </a>
-          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=개념정리-네트워크">
-           개념정리 | 네트워크
+          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=머신러닝-차원축소">
+           머신러닝 | 차원축소
+           <span>
+            (3)
+           </span>
+          </a>
+          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=환경-Linux">
+           환경 | Linux
            <span>
             (3)
            </span>
@@ -815,12 +828,6 @@
           </a>
           <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=머신러닝-시계열">
            머신러닝 | 시계열
-           <span>
-            (2)
-           </span>
-          </a>
-          <a class="VelogTagHorizontalList_tagItem__1tP3p" href="/@euisuk-chung/posts?tag=개념정리-머신러닝">
-           개념정리 | 머신러닝
            <span>
             (2)
            </span>
@@ -911,6 +918,48 @@
           </a>
          </div>
          <div class="FlatPostCardList_block__VoFQe">
+          <div class="FlatPostCard_block__a1qM7">
+           <a class="VLink_block__Uwj4P FlatPostCard_postThumbnail__s7Hld" href="https://velog.io/@euisuk-chung/트리-트리-기반-ML-알고리즘">
+            <img alt="post-thumbnail" data-nimg="fill" decoding="async" fetchpriority="high" src="https://velog.velcdn.com/images/euisuk-chung/post/2c1e4d0a-f871-4ac7-a49a-59461168de9f/image.png" style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"/>
+           </a>
+           <a class="VLink_block__Uwj4P" href="https://velog.io/@euisuk-chung/트리-트리-기반-ML-알고리즘">
+            <h2>
+             [트리] 트리 기반 ML 알고리즘
+            </h2>
+           </a>
+           <p>
+            트리 기반 머신러닝(ML) 알고리즘은 데이터의 특징을 기반으로 트리를 생성하여 예측(Regression) 또는 분류(Classification)를 수행하는 방법입니다. 트리 ML 알고리즘의 계보에 대해서 학습해봅시다 😝
+           </p>
+           <div class="FlatPostCard_tagsWrapper__iNQR3">
+            <a class="VLink_block__Uwj4P TagItem_tagLink__Cga_K TagItem_default__AqENj" href="https://velog.io/tags/개념정리">
+             개념정리
+            </a>
+            <a class="VLink_block__Uwj4P TagItem_tagLink__Cga_K TagItem_default__AqENj" href="https://velog.io/tags/개념정리-머신러닝">
+             개념정리 | 머신러닝
+            </a>
+           </div>
+           <div class="FlatPostCard_subInfo__cT3J6">
+            <span>
+             약 5시간 전
+            </span>
+            <div class="FlatPostCard_seperator__qQUlp">
+             .
+            </div>
+            <span>
+             0개의 댓글
+            </span>
+            <div class="FlatPostCard_seperator__qQUlp">
+             ·
+            </div>
+            <span class="FlatPostCard_likes__TtpEU">
+             <svg viewbox="0 0 24 24">
+              <path d="m18 1-6 4-6-4-6 5v7l12 10 12-10V6z" fill="currentColor">
+              </path>
+             </svg>
+             1
+            </span>
+           </div>
+          </div>
           <div class="FlatPostCard_block__a1qM7">
            <a class="VLink_block__Uwj4P FlatPostCard_postThumbnail__s7Hld" href="https://velog.io/@euisuk-chung/파이썬-우분투에서-한글-폰트-설치하고-matplotlib에-사용하기">
             <img alt="post-thumbnail" data-nimg="fill" decoding="async" fetchpriority="high" src="https://velog.velcdn.com/images/euisuk-chung/post/9b599ef0-32ef-427f-88d6-e8c23db050d1/image.png" style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"/>
@@ -4681,13 +4730,7 @@ Supervised Variable Extraction
    self.__next_f.push([1,"21:I[27438,[\"3989\",\"static/chunks/47d8844f-a18c4da7cd76958b.js\",\"1358\",\"static/chunks/1358-719698391c19b2e4.js\",\"9696\",\"static/chunks/9696-12e6776dfa88bfec.js\",\"5559\",\"static/chunks/5559-26d85b081bd14f08.js\",\"5681\",\"static/chunks/5681-e2fe85b5819d0110.js\",\"4950\",\"static/chunks/4950-e492490ea3449563.js\",\"9368\",\"static/chunks/9368-0932e26a7840d4d4.js\",\"353\",\"static/chunks/353-086c9c9dcfa42724.js\",\"2938\",\"static/chunks/2938-e2bb7ed3bc3665e8.js\",\"4446\",\"static/chunks/4446-9faeafd6adfce63d.js\",\"449\",\"static/chunks/449-99b2362b424639b2.js\",\"3353\",\"static/chunks/3353-cc497e4501567303.js\",\"5958\",\"static/chunks/app/%5Busername%5D/(tab)/layout-c3864bd36abb1c81.js\"],\"\"]\n"])
   </script>
   <script>
-   self.__next_f.push([1,"1c:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"name\":\"color-scheme\",\"content\":\"light dark\"}],[\"$\",\"meta\",\"2\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"3\",{\"children\":\"euisuk-chung (의서쿠) / 작성글 - velog\"}],[\"$\",\"meta\",\"4\",{\"name\":\"description\",\"content\":\"euisuk-chung님이 작성한 포스트 시리즈들을 확인해보세요.\"}],[\"$\",\"meta\",\"5\",{\"name\":\"fb:app_id\",\"content\":\"203040656938507\"}],[\"$\",\"meta\",\"6\",{\"name\":\"og:image\",\"content\":\"https://images.velog.io/velog.png\"}],[\"$\",\"meta\",\"7\",{\"name\":\"format-detection\",\"content\":\"telephone=no, date=no, email=no, address=no\"}],[\"$\",\"meta\",\"8\",{\"name\":\"mobile-web-app-capable\",\"content\":\"yes\"}],[\"$\",\"link\",\"9\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"180x180\"}],[\"$\",\"meta\",\"10\",{\"name\":\"next-size-adjust\"}]]\n"])
-  </script>
-  <script>
-   self.__next_f.push([1,"a:null\n"])
-  </script>
-  <script>
-   self.__next_f.push([1,"f:[\"$\",\"$L1f\",null,{\"isCustomHeader\":true,\"userLogo\":{\"title\":\"chung_es.log\",\"logo_image\":null},\"username\":\"euisuk-chung\",\"children\":[\"$\",\"$L20\",null,{\"userProfile\":[\"$\",\"$L21\",null,{\"userId\":\"2236ed41-31d0-4423-8eca-111842404847\",\"followersCount\":31,\"followingsCount\":1,\"isFollowed\":false,\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"display_name\":\"의서쿠\",\"short_bio\":\"Always be passionate ✨\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"profile_links\":{\"url\":\"https://www.youtube.com/@loading_700\",\"email\":\"jasuchung@gmail.com\",\"github\":\"euisuk-chung\"}}}],\"children\":[\"$\",\"$Lc\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$d\",\"children\",\"(tab)\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Le\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]}]}]\n"])
+   self.__next_f.push([1,"f:[\"$\",\"$L1f\",null,{\"isCustomHeader\":true,\"userLogo\":{\"title\":\"chung_es.log\",\"logo_image\":null},\"username\":\"euisuk-chung\",\"children\":[\"$\",\"$L20\",null,{\"userProfile\":[\"$\",\"$L21\",null,{\"userId\":\"2236ed41-31d0-4423-8eca-111842404847\",\"followersCount\":31,\"followingsCount\":2,\"isFollowed\":false,\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"display_name\":\"의서쿠\",\"short_bio\":\"Always be passionate ✨\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"profile_links\":{\"url\":\"https://www.youtube.com/@loading_700\",\"email\":\"jasuchung@gmail.com\",\"github\":\"euisuk-chung\"}}}],\"children\":[\"$\",\"$Lc\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$d\",\"children\",\"(tab)\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Le\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]}]}]\n"])
   </script>
   <script>
    self.__next_f.push([1,"22:I[46459,[\"1358\",\"static/chunks/1358-719698391c19b2e4.js\",\"9696\",\"static/chunks/9696-12e6776dfa88bfec.js\",\"5559\",\"static/chunks/5559-26d85b081bd14f08.js\",\"5681\",\"static/chunks/5681-e2fe85b5819d0110.js\",\"9368\",\"static/chunks/9368-0932e26a7840d4d4.js\",\"3762\",\"static/chunks/3762-93da502287d6fbde.js\",\"4446\",\"static/chunks/4446-9faeafd6adfce63d.js\",\"449\",\"static/chunks/449-99b2362b424639b2.js\",\"759\",\"static/chunks/759-a87c660eeb42abf9.js\",\"7544\",\"static/chunks/app/%5Busername%5D/(tab)/posts/page-d690064d09f53dbd.js\"],\"\"]\n"])
@@ -4696,7 +4739,13 @@ Supervised Variable Extraction
    self.__next_f.push([1,"23:I[61805,[\"1358\",\"static/chunks/1358-719698391c19b2e4.js\",\"9696\",\"static/chunks/9696-12e6776dfa88bfec.js\",\"5559\",\"static/chunks/5559-26d85b081bd14f08.js\",\"5681\",\"static/chunks/5681-e2fe85b5819d0110.js\",\"9368\",\"static/chunks/9368-0932e26a7840d4d4.js\",\"3762\",\"static/chunks/3762-93da502287d6fbde.js\",\"4446\",\"static/chunks/4446-9faeafd6adfce63d.js\",\"449\",\"static/chunks/449-99b2362b424639b2.js\",\"759\",\"static/chunks/759-a87c660eeb42abf9.js\",\"7544\",\"static/chunks/app/%5Busername%5D/(tab)/posts/page-d690064d09f53dbd.js\"],\"\"]\n"])
   </script>
   <script>
-   self.__next_f.push([1,"b:[[\"$\",\"$L22\",null,{\"query\":\"\",\"username\":\"euisuk-chung\"}],[\"$\",\"$L23\",null,{\"username\":\"euisuk-chung\",\"tag\":\"\",\"userTags\":{\"tags\":[{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:b0c6e6e6-63bd-47f1-af37-a921f4c7afb4\",\"name\":\"환경\",\"description\":null,\"posts_count\":17,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:0ee2e660-d765-11e8-adc9-ed779ea35f76\",\"name\":\"파이썬\",\"description\":null,\"posts_count\":14,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:6bae96a0-f7c6-11e9-9517-ff587d8887f8\",\"name\":\"딥러닝\",\"description\":null,\"posts_count\":12,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:a5589bd0-e76d-11e9-a035-c1648a68205b\",\"name\":\"개념정리\",\"description\":null,\"posts_count\":11,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:35443b20-f59f-11e9-b407-3b30c2a7cef6\",\"name\":\"Conference\",\"description\":null,\"posts_count\":10,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:8faff278-8451-45f9-9cbb-da2e0f6cd4df\",\"name\":\"환경 | Git\",\"description\":null,\"posts_count\":8,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:ab529239-ce0c-4ec2-82e0-dd21cc3113cd\",\"name\":\"꿀팁\",\"description\":null,\"posts_count\":8,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d982bbaf-0401-4eca-aba0-a0b8971e77df\",\"name\":\"Conference | CIO\",\"description\":null,\"posts_count\":7,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:3a54a30f-138d-4d47-bb6a-4e53546961e9\",\"name\":\"이상탐지 | 머신러닝\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d6ac27f0-fc50-11e8-a0af-6d805f1eb60b\",\"name\":\"머신러닝\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:f764e6bd-6dde-4665-b3c8-3ff2c90a2a9b\",\"name\":\"딥러닝 | Pytorch\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:05282d1c-e95b-473f-b31f-f952fa580f78\",\"name\":\"꿀팁 | Tools\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:83628bdf-effa-4d01-b723-e1eabea113f1\",\"name\":\"이상탐지\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:bc5177af-b783-4709-bdb6-625ee78aff95\",\"name\":\"딥러닝 | Paper\",\"description\":null,\"posts_count\":5,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:50489319-5708-41c6-ba31-601b4f7d3bfe\",\"name\":\"파이썬 | 멀티프로세싱\",\"description\":null,\"posts_count\":4,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:a12bac5d-d900-4126-ab30-f4eb25cc343b\",\"name\":\"환경 | Linux\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:655fa5f2-8aa7-443f-b71b-00d002413fd3\",\"name\":\"파이썬 | Pandas\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:1b74f22b-f3ad-4442-9a86-d6f1dd10ad7d\",\"name\":\"파이썬 | 스니팻\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:5549e61b-69cb-4178-b8bf-45d575f8b22a\",\"name\":\"머신러닝 | 차원축소\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:fc2739d0-f507-4d34-8a84-5e5d1c8b8e9d\",\"name\":\"Conference | OpenAI\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:f3cca88f-009f-415f-9572-9b9718ad0ed2\",\"name\":\"개념정리 | 네트워크\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:c9761e82-5509-4f9b-bf24-0d8084666d97\",\"name\":\"파이썬 | Jupyter\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:f96ea79b-e460-4f71-96ea-13161b2e8d3b\",\"name\":\"개념정리 | IT지식\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:1908fed7-51af-4d8c-886d-ddf543119632\",\"name\":\"환경 | Splunk\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:8cead3e4-74bf-49b4-b1e1-3bd4579dd722\",\"name\":\"환경 | Conda\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:913f9636-c883-40aa-8ab9-ee223b0b9911\",\"name\":\"머신러닝 | 시계열\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d5d42344-5e4b-4f16-9f61-97160f8430b9\",\"name\":\"개념정리 | 머신러닝\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:0d01f606-df50-4176-af50-ddf6868ccd17\",\"name\":\"개념정리 | 딥러닝\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:ff78c950-ed59-445d-959c-b574d8870b5a\",\"name\":\"파이썬 | 람다함수\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:20f2fb9d-8f47-44af-84c3-c0702a7d7d38\",\"name\":\"활동\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:32c7aafe-4558-477f-af9a-b1dd71073d7f\",\"name\":\"환경 | 딥러닝\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:369326ab-443d-437d-a9fd-c80f46ac20e9\",\"name\":\"파이썬 | numpy\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:3c17e14a-9602-44bc-a396-cccff49b0e15\",\"name\":\"개념정리 | 신호처리\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:5d317ee4-dbc8-4718-b4a0-eb998402fafd\",\"name\":\"꿀팁 | 파이썬\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:5ee16a9d-01ba-404e-913c-06958cdd0606\",\"name\":\"활동 | 글또\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:776bf54d-683f-4e65-bb22-9ede144651d8\",\"name\":\"파이썬 | Visualization\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:7bc9a73c-cadf-4433-8df3-f1c0f63f6f71\",\"name\":\"개념정리 | 그래프\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:c6f43317-c946-4985-87f4-cac433b38fcf\",\"name\":\"머신러닝 | Paper\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d0ec2eec-34dd-4df3-b314-04b8fab0fa1c\",\"name\":\"환경 | pipenv\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:e49b0068-dd1e-430d-ac81-12c4579eb69e\",\"name\":\"꿀팁 | Velog\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:fe77d0e4-f969-4908-a2f1-3be0a569ad84\",\"name\":\"환경 | pyenv\",\"description\":null,\"posts_count\":1,\"thumbnail\":null}],\"posts_count\":87},\"initialData\":[{\"id\":\"29de0ed2-7e1d-4744-8542-34143175630b\",\"title\":\"[파이썬] 우분투에서 한글 폰트 설치하고 matplotlib에 사용하기\",\"short_description\":\"파이썬을 활용하다보면 시각화는 필수 영역입니다. 그러나 Linux 환경에서는 기본적으로 한글 폰트가 설치되어 있지 않아 한글이 제대로 표시되지 않는 경우가 많습니다. 이는 주로 운영체제의 기본 폰트 세트에 한글 폰트가 포함되지 않기 때문입니다.\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/9b599ef0-32ef-427f-88d6-e8c23db050d1/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"파이썬-우분투에서-한글-폰트-설치하고-matplotlib에-사용하기\",\"released_at\":\"2024-06-09T09:47:43.618Z\",\"updated_at\":\"2024-06-23T14:57:36.837Z\",\"comments_count\":0,\"tags\":[\"파이썬\",\"파이썬 | Visualization\"],\"is_private\":false,\"likes\":1},{\"id\":\"019b93a9-3a3d-4c6b-baaa-6b620fdb9bd0\",\"title\":\"[파이썬] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)\",\"short_description\":\"안녕하세요🤗! 오늘은 제가 VS-Code를 사용하면서 자주 겪는 문제인 key-mapping 문제와 이를 해결하는 방법에 대해 다뤄보겠습니다.\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/c7e1b4b1-ce3e-40e0-92f6-0edd9d14f4fb/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"꿀팁-vs-code-keymapping-오류해결하기-shiftenter-ctrlenter-등\",\"released_at\":\"2024-06-09T05:12:15.405Z\",\"updated_at\":\"2024-06-23T12:27:10.888Z\",\"comments_count\":0,\"tags\":[\"파이썬\",\"파이썬 | Jupyter\"],\"is_private\":false,\"likes\":1},{\"id\":\"23d6234b-6d49-44d6-87d9-d57196888560\",\"title\":\"[개념] 신호처리 및 푸리에 변환\",\"short_description\":\"📈 신호처리(Signal Processing)는 신호를 분석하고 변환하며 해석하는 기술과 방법을 연구하는 학문입니다. 푸리에 변환(Fourier Transform)은 시간 도메인에서 신호를 주파수 도메인으로 변환하는 수학적 기법입니다. 자세하게 살펴보시죠!\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/918c1f2d-350e-460d-9790-90c7415c0ddd/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"신호처리-및-푸리에-변환\",\"released_at\":\"2024-05-31T05:10:45.183Z\",\"updated_at\":\"2024-06-23T14:05:33.388Z\",\"comments_count\":0,\"tags\":[\"개념정리\",\"개념정리 | 신호처리\"],\"is_private\":false,\"likes\":1},{\"id\":\"e7c41d71-2bab-4ab6-b7a8-3766304ab383\",\"title\":\"[꿀팁] Confluence 단축키📖 (북마크 추천!!)\",\"short_description\":\"Confluence는 제품 문서화, 지식 베이스, 프로젝트 계획 활동 또는 블로깅을 위한 훌륭한 협업 도구입니다. 국내 외 수많은 회사들이 해당 회사의 제품을 사용하여 협력/정보 공유 등의 활동을 하고 있습니다.\\n\\n\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/6f19390e-e9d1-4d49-a54a-3b56face1d39/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"꿀팁-Confluence-단축키-북마크-추천\",\"released_at\":\"2024-05-31T01:03:45.778Z\",\"updated_at\":\"2024-06-23T00:45:21.191Z\",\"comments_count\":0,\"tags\":[\"꿀팁\",\"꿀팁 | Tools\"],\"is_private\":false,\"likes\":1},{\"id\":\"cb01196f-0f52-4aeb-9f25-1786a87e0cdc\",\"title\":\"[꿀팁] Notion 단축키📖 (북마크 추천!!)\",\"short_description\":\"저는 업무 또는 일상에서 메모를 할때 Notion을 많이 사용합니다!🙂 Notion은 프로젝트 관리 및 기록 소프트웨어로, 마우스를 사용하지 않고도 모든 작업을 수행할 수 있도록 키보드 및 Markdown 단축키를 지원합니다.\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/c13cd78e-affe-40af-a774-64e854cdfe1e/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"꿀팁-Notion-단축키-완벽-가이드\",\"released_at\":\"2024-05-30T01:38:06.928Z\",\"updated_at\":\"2024-06-22T12:24:33.637Z\",\"comments_count\":3,\"tags\":[\"꿀팁\",\"꿀팁 | Tools\"],\"is_private\":false,\"likes\":11}]}]]\n"])
+   self.__next_f.push([1,"b:[[\"$\",\"$L22\",null,{\"query\":\"\",\"username\":\"euisuk-chung\"}],[\"$\",\"$L23\",null,{\"username\":\"euisuk-chung\",\"tag\":\"\",\"userTags\":{\"tags\":[{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:b0c6e6e6-63bd-47f1-af37-a921f4c7afb4\",\"name\":\"환경\",\"description\":null,\"posts_count\":17,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:0ee2e660-d765-11e8-adc9-ed779ea35f76\",\"name\":\"파이썬\",\"description\":null,\"posts_count\":14,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:6bae96a0-f7c6-11e9-9517-ff587d8887f8\",\"name\":\"딥러닝\",\"description\":null,\"posts_count\":12,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:a5589bd0-e76d-11e9-a035-c1648a68205b\",\"name\":\"개념정리\",\"description\":null,\"posts_count\":12,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:35443b20-f59f-11e9-b407-3b30c2a7cef6\",\"name\":\"Conference\",\"description\":null,\"posts_count\":10,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:8faff278-8451-45f9-9cbb-da2e0f6cd4df\",\"name\":\"환경 | Git\",\"description\":null,\"posts_count\":8,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:ab529239-ce0c-4ec2-82e0-dd21cc3113cd\",\"name\":\"꿀팁\",\"description\":null,\"posts_count\":8,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d982bbaf-0401-4eca-aba0-a0b8971e77df\",\"name\":\"Conference | CIO\",\"description\":null,\"posts_count\":7,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:3a54a30f-138d-4d47-bb6a-4e53546961e9\",\"name\":\"이상탐지 | 머신러닝\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d6ac27f0-fc50-11e8-a0af-6d805f1eb60b\",\"name\":\"머신러닝\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:f764e6bd-6dde-4665-b3c8-3ff2c90a2a9b\",\"name\":\"딥러닝 | Pytorch\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:05282d1c-e95b-473f-b31f-f952fa580f78\",\"name\":\"꿀팁 | Tools\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:83628bdf-effa-4d01-b723-e1eabea113f1\",\"name\":\"이상탐지\",\"description\":null,\"posts_count\":6,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:bc5177af-b783-4709-bdb6-625ee78aff95\",\"name\":\"딥러닝 | Paper\",\"description\":null,\"posts_count\":5,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:50489319-5708-41c6-ba31-601b4f7d3bfe\",\"name\":\"파이썬 | 멀티프로세싱\",\"description\":null,\"posts_count\":4,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d5d42344-5e4b-4f16-9f61-97160f8430b9\",\"name\":\"개념정리 | 머신러닝\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:1b74f22b-f3ad-4442-9a86-d6f1dd10ad7d\",\"name\":\"파이썬 | 스니팻\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:f3cca88f-009f-415f-9572-9b9718ad0ed2\",\"name\":\"개념정리 | 네트워크\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:655fa5f2-8aa7-443f-b71b-00d002413fd3\",\"name\":\"파이썬 | Pandas\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:fc2739d0-f507-4d34-8a84-5e5d1c8b8e9d\",\"name\":\"Conference | OpenAI\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:5549e61b-69cb-4178-b8bf-45d575f8b22a\",\"name\":\"머신러닝 | 차원축소\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:a12bac5d-d900-4126-ab30-f4eb25cc343b\",\"name\":\"환경 | Linux\",\"description\":null,\"posts_count\":3,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:c9761e82-5509-4f9b-bf24-0d8084666d97\",\"name\":\"파이썬 | Jupyter\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:f96ea79b-e460-4f71-96ea-13161b2e8d3b\",\"name\":\"개념정리 | IT지식\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:1908fed7-51af-4d8c-886d-ddf543119632\",\"name\":\"환경 | Splunk\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:8cead3e4-74bf-49b4-b1e1-3bd4579dd722\",\"name\":\"환경 | Conda\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:913f9636-c883-40aa-8ab9-ee223b0b9911\",\"name\":\"머신러닝 | 시계열\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:0d01f606-df50-4176-af50-ddf6868ccd17\",\"name\":\"개념정리 | 딥러닝\",\"description\":null,\"posts_count\":2,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:ff78c950-ed59-445d-959c-b574d8870b5a\",\"name\":\"파이썬 | 람다함수\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:20f2fb9d-8f47-44af-84c3-c0702a7d7d38\",\"name\":\"활동\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:32c7aafe-4558-477f-af9a-b1dd71073d7f\",\"name\":\"환경 | 딥러닝\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:369326ab-443d-437d-a9fd-c80f46ac20e9\",\"name\":\"파이썬 | numpy\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:3c17e14a-9602-44bc-a396-cccff49b0e15\",\"name\":\"개념정리 | 신호처리\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:5d317ee4-dbc8-4718-b4a0-eb998402fafd\",\"name\":\"꿀팁 | 파이썬\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:5ee16a9d-01ba-404e-913c-06958cdd0606\",\"name\":\"활동 | 글또\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:776bf54d-683f-4e65-bb22-9ede144651d8\",\"name\":\"파이썬 | Visualization\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:7bc9a73c-cadf-4433-8df3-f1c0f63f6f71\",\"name\":\"개념정리 | 그래프\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:c6f43317-c946-4985-87f4-cac433b38fcf\",\"name\":\"머신러닝 | Paper\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:d0ec2eec-34dd-4df3-b314-04b8fab0fa1c\",\"name\":\"환경 | pipenv\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:e49b0068-dd1e-430d-ac81-12c4579eb69e\",\"name\":\"꿀팁 | Velog\",\"description\":null,\"posts_count\":1,\"thumbnail\":null},{\"id\":\"2236ed41-31d0-4423-8eca-111842404847:fe77d0e4-f969-4908-a2f1-3be0a569ad84\",\"name\":\"환경 | pyenv\",\"description\":null,\"posts_count\":1,\"thumbnail\":null}],\"posts_count\":88},\"initialData\":[{\"id\":\"c97e557e-eacf-4cb4-a207-4be9c4bda807\",\"title\":\"[트리] 트리 기반 ML 알고리즘\",\"short_description\":\"트리 기반 머신러닝(ML) 알고리즘은 데이터의 특징을 기반으로 트리를 생성하여 예측(Regression) 또는 분류(Classification)를 수행하는 방법입니다. 트리 ML 알고리즘의 계보에 대해서 학습해봅시다 😝\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/2c1e4d0a-f871-4ac7-a49a-59461168de9f/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"트리-트리-기반-ML-알고리즘\",\"released_at\":\"2024-06-24T06:26:54.493Z\",\"updated_at\":\"2024-06-24T08:00:39.033Z\",\"comments_count\":0,\"tags\":[\"개념정리\",\"개념정리 | 머신러닝\"],\"is_private\":false,\"likes\":1},{\"id\":\"29de0ed2-7e1d-4744-8542-34143175630b\",\"title\":\"[파이썬] 우분투에서 한글 폰트 설치하고 matplotlib에 사용하기\",\"short_description\":\"파이썬을 활용하다보면 시각화는 필수 영역입니다. 그러나 Linux 환경에서는 기본적으로 한글 폰트가 설치되어 있지 않아 한글이 제대로 표시되지 않는 경우가 많습니다. 이는 주로 운영체제의 기본 폰트 세트에 한글 폰트가 포함되지 않기 때문입니다.\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/9b599ef0-32ef-427f-88d6-e8c23db050d1/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"파이썬-우분투에서-한글-폰트-설치하고-matplotlib에-사용하기\",\"released_at\":\"2024-06-09T09:47:43.618Z\",\"updated_at\":\"2024-06-24T08:27:45.438Z\",\"comments_count\":0,\"tags\":[\"파이썬\",\"파이썬 | Visualization\"],\"is_private\":false,\"likes\":1},{\"id\":\"019b93a9-3a3d-4c6b-baaa-6b620fdb9bd0\",\"title\":\"[파이썬] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)\",\"short_description\":\"안녕하세요🤗! 오늘은 제가 VS-Code를 사용하면서 자주 겪는 문제인 key-mapping 문제와 이를 해결하는 방법에 대해 다뤄보겠습니다.\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/c7e1b4b1-ce3e-40e0-92f6-0edd9d14f4fb/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"꿀팁-vs-code-keymapping-오류해결하기-shiftenter-ctrlenter-등\",\"released_at\":\"2024-06-09T05:12:15.405Z\",\"updated_at\":\"2024-06-24T07:26:45.981Z\",\"comments_count\":0,\"tags\":[\"파이썬\",\"파이썬 | Jupyter\"],\"is_private\":false,\"likes\":1},{\"id\":\"23d6234b-6d49-44d6-87d9-d57196888560\",\"title\":\"[개념] 신호처리 및 푸리에 변환\",\"short_description\":\"📈 신호처리(Signal Processing)는 신호를 분석하고 변환하며 해석하는 기술과 방법을 연구하는 학문입니다. 푸리에 변환(Fourier Transform)은 시간 도메인에서 신호를 주파수 도메인으로 변환하는 수학적 기법입니다. 자세하게 살펴보시죠!\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/918c1f2d-350e-460d-9790-90c7415c0ddd/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"신호처리-및-푸리에-변환\",\"released_at\":\"2024-05-31T05:10:45.183Z\",\"updated_at\":\"2024-06-24T05:10:00.486Z\",\"comments_count\":0,\"tags\":[\"개념정리\",\"개념정리 | 신호처리\"],\"is_private\":false,\"likes\":1},{\"id\":\"e7c41d71-2bab-4ab6-b7a8-3766304ab383\",\"title\":\"[꿀팁] Confluence 단축키📖 (북마크 추천!!)\",\"short_description\":\"Confluence는 제품 문서화, 지식 베이스, 프로젝트 계획 활동 또는 블로깅을 위한 훌륭한 협업 도구입니다. 국내 외 수많은 회사들이 해당 회사의 제품을 사용하여 협력/정보 공유 등의 활동을 하고 있습니다.\\n\\n\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/post/6f19390e-e9d1-4d49-a54a-3b56face1d39/image.png\",\"user\":{\"id\":\"2236ed41-31d0-4423-8eca-111842404847\",\"username\":\"euisuk-chung\",\"profile\":{\"id\":\"9710be38-ab37-463d-bfa2-da07476a2b46\",\"thumbnail\":\"https://velog.velcdn.com/images/euisuk-chung/profile/eb225e9b-afcc-44e5-9b1f-4389d45726c7/image.png\",\"display_name\":\"의서쿠\"}},\"url_slug\":\"꿀팁-Confluence-단축키-북마크-추천\",\"released_at\":\"2024-05-31T01:03:45.778Z\",\"updated_at\":\"2024-06-24T07:09:01.515Z\",\"comments_count\":0,\"tags\":[\"꿀팁\",\"꿀팁 | Tools\"],\"is_private\":false,\"likes\":1}]}]]\n"])
+  </script>
+  <script>
+   self.__next_f.push([1,"1c:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"name\":\"color-scheme\",\"content\":\"light dark\"}],[\"$\",\"meta\",\"2\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"3\",{\"children\":\"euisuk-chung (의서쿠) / 작성글 - velog\"}],[\"$\",\"meta\",\"4\",{\"name\":\"description\",\"content\":\"euisuk-chung님이 작성한 포스트 시리즈들을 확인해보세요.\"}],[\"$\",\"meta\",\"5\",{\"name\":\"fb:app_id\",\"content\":\"203040656938507\"}],[\"$\",\"meta\",\"6\",{\"name\":\"og:image\",\"content\":\"https://images.velog.io/velog.png\"}],[\"$\",\"meta\",\"7\",{\"name\":\"format-detection\",\"content\":\"telephone=no, date=no, email=no, address=no\"}],[\"$\",\"meta\",\"8\",{\"name\":\"mobile-web-app-capable\",\"content\":\"yes\"}],[\"$\",\"link\",\"9\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"180x180\"}],[\"$\",\"meta\",\"10\",{\"name\":\"next-size-adjust\"}]]\n"])
+  </script>
+  <script>
+   self.__next_f.push([1,"a:null\n"])
   </script>
   <script>
    self.__next_f.push([1,""])
