@@ -21,6 +21,13 @@ pywaffle = "*"
 squarify = "*"
 calmap = "*"
 scipy = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+torchdata = "*"
+torchtext = "*"
+spacy = "*"
+altair = "*"
 
 [dev-packages]
 
